@@ -1,4 +1,4 @@
-## Hi, I'm Hanan Adan Weye 👋
+## Hi, I'm HANAN ADAN WEYE👋
 
 I am an Information Systems Technology student with hands-on experience in:
 - IT Support & Networking
