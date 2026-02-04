@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Hanan Adan Weye 👋
 
-<!--
-**hananadanweye2-debug/hananadanweye2-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Information Systems Technology student with hands-on experience in:
+- IT Support & Networking
+- Web Development
+- Arduino & Embedded Systems
+- Asset Management Systems
 
-Here are some ideas to get you started:
+- ### 🔧 Technologies
+Python | JavaScript | Java | C++ | HTML | CSS | MySQL | Arduino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Featured Projects
+- Arduino Environment Monitoring System
+- Smart Plant Monitoring System
+- Online Investment Project
+
+📫 GitHub: https://github.com/hananadanweye2-debug
